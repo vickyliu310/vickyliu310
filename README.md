@@ -4,11 +4,10 @@ I'm Zhiheng (Vicky) Liu, a mastermind in the making with a passion for data scie
 
 ## About Me 💐💐
 
-- 💼 Operations Analyst at NYU Langone Health, specializing in financial planning and data analytics
-- 🎓 M.A. in Quantitative Methods in the Social Sciences (QMSS), Data Science Concentration – Columbia University
-- 🎓 B.A. in Psychology, Minors in Entertainment Media & Adolescent Mental Health – New York University
+- 📂 Operations Analyst at NYU Langone Health, specializing in financial planning and data analytics
+- 🔍 M.A. in Quantitative Methods in the Social Sciences (QMSS), Data Science Concentration – Columbia University
+- 🧠 B.A. in Psychology, Minors in Entertainment Media & Adolescent Mental Health – New York University
 - 💻 Skilled in Python, R, SQL, Tableau, Power B
-- 💼 Interned at Tencent, Kuaishou Technology, and fintech startups, blending analytics with product and market strategy
 - 🌍 Travel enthusiast with a knack for capturing moments through the lens of both a camera and data visualizations.
 
 ## Let's Connect 💐💐
