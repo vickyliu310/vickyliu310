@@ -7,7 +7,7 @@ I'm Vicky (Zhiheng) Liu, a mastermind in the making with a passion for data scie
 - NYU Langone Health: Operations Analyst, specializing in financial planning and data analytics
 - Columbia University: M.A. in Quantitative Methods in the Social Sciences, Data Science Concentration
 - New York University: B.A. in Psychology, Minors in Entertainment Media & Adolescent Mental Health
-- Skilled in Python, R, SQL, Tableau, Power B
+- Skilled in Python, R, SQL, Tableau
 
 ## Let's Connect
 
