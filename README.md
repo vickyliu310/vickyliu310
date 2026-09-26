@@ -1,4 +1,4 @@
-# Hi! 💗
+# Hi! 🌷
 
 I'm Vicky (Zhiheng) Liu, a mastermind in the making with a passion for data science and analytics. From decoding datasets to optimizing operations, I love transforming raw information into actionable insights.
 
