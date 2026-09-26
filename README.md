@@ -11,5 +11,5 @@ I'm Vicky (Zhiheng) Liu, a mastermind in the making with a passion for data scie
 
 ## Let's Connect
 
-- Email: Zhiheng.Liu@nyulangone.org
+- Email: zhiheng.liu@nyulangone.org
 - LinkedIn: [https://www.linkedin.com/in/vicky-liu-2007781a8/]
